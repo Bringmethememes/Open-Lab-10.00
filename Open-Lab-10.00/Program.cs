@@ -6,7 +6,7 @@ namespace Open_Lab_10._00
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ak toto citas si pleb");
+            Console.WriteLine("Ak toto citas si pleb haha");
         }
     }
 }
